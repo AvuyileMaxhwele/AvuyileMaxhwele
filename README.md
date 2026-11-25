@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Avuyile 👋
 
-<!--
-**AvuyileMaxhwele/AvuyileMaxhwele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate  
+💻 Interested in Software Engineering and Software Development  
+🌱 Currently building projects and strengthening my technical skills  
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Computer Science graduate interested in software engineering and building practical software solutions. I'm currently focused on developing my programming skills, exploring software development technologies, and working on projects that help me gain practical experience.
+
+## Technologies
+
+- Python
+- Java
+- SQL
+- MySQL
+- JavaScript
+- React
+
+## Currently Working On
+
+- Building personal software projects
+- Strengthening my programming and problem-solving skills
+- Learning software development best practices
+- Growing my GitHub portfolio
+
+## Connect With Me
+
+- LinkedIn:
